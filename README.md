@@ -3,7 +3,7 @@ Librairie python pour aider les utilisateurs du forum _La Passion du Vin_ (LPV) 
 dans la gestion des CR de dégustation
 
 ### Copyright 2023 Mathias Bouquerel
-Veuillez prendre connaissance de la [LICENSE](LICENSE.txt)
+Veuillez prendre connaissance de la [LICENCE](LICENSE.txt)
 
 ## Configuration reguise
 [Python 3](https://www.python.org/)
@@ -14,7 +14,8 @@ les participants ont chacun fait un CR contenant tous les vins, afin de facilite
 des domaines.
 
 Le script `main_example.py` donne un exemple d'utilisation de cette fonction de transposition pour exploiter
-les CR stockés dans le sous-dossier `CR-par-auteur`.
+les CR stockés dans le sous-dossier `CR-par-auteur`. Les CR par vin seront générés dans le dossier courant,
+et le dossier `CR-par-auteur` contient déjà les fichiers tels qu'ils seront générés, à titre d'exemple.
 
 Les étapes à suivre sont les suivantes :
 1. Créer un dossier `C:/[...]/ma_soiree_lpv`

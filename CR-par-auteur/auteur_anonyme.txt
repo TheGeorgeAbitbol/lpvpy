@@ -1,0 +1,36 @@
+Texte qui n'est pas pris en compte.
+Ici on écrit ce qu'on veut.
+
+Vin X
+Miam c'est bon !
+
+Vin X
+Vraiment bof.
+
+Vin X
+J'adore ce vin !
+
+Vin X
+Miam c'est bon !
+
+Vin X
+Vraiment bof.
+
+Vin X
+J'adore ce vin !
+
+Vin X
+Miam c'est bon !
+
+Vin X
+Vraiment bof.
+
+Vin X
+J'adore ce vin !
+
+Vin X
+Je ne me souviens plus de ce vin.
+Mais il faut quand même un paragraphe pour garder le bon ordre des vins.
+
+Vin X
+Ce dernier vin est vraiment un décile !
